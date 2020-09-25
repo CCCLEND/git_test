@@ -1,1 +1,1 @@
-This is CCCLEND's first git project! :^)
+This is CLEND's first git project!
